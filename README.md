@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/michaelfu1998?theme=dark&font=PT%20Sans%20Caption&ext=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/michaelfu1998?theme=light&font=PT%20Sans%20Caption)](https://leetcode.com/michaelfu1998/)
