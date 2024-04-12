@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="img/munger.jpg" width="230" height="230">
+  <a href="https://www.stripe.press/poor-charlies-almanack/cover">
+    <img src="img/munger.jpg" width="230" height="230" >
   </a>
   <h4 align="center">In Memory of My Mentor, Charlie Munger, 1924-2023</h3>
   <p align="center">
