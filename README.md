@@ -1,18 +1,10 @@
-### Hi there 👋
-
-<!--
-**MichaelFu1998-create/MichaelFu1998-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="img/munger.jpg" width="230" height="230">
+  </a>
+  <h4 align="center">In Memory of My Mentor, Charlie Munger, 1924-2023</h3>
+  <p align="center">
+    "Spend each day trying to be a little wiser than you were when you woke up"
+  </p>
+</p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/michaelfu1998?theme=light&font=PT%20Sans%20Caption)](https://leetcode.com/michaelfu1998/)
