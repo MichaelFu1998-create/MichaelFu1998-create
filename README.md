@@ -7,4 +7,8 @@
   </p>
 </p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/michaelfu1998?theme=light&font=PT%20Sans%20Caption)](https://leetcode.com/michaelfu1998/)
+<p align="center">
+    <a href="https://leetcode.com/michaelfu1998/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/michaelfu1998?theme=light&font=PT%20Sans%20Caption" alt="LeetCode Stats">
+    </a>
+</p>
